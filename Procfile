@@ -1,1 +1,1 @@
-worker:: python voters_bot.py
+web: python voters_bot.py
